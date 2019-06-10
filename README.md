@@ -1,22 +1,26 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
+<head>
+<title>
+SIGN UP
+</title>
+<link rel="stylesheet" type="text/css" href="rmail.css">
+<meta content= ’width = device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0′ name=’viewport’ />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="download.png">
+</head>
+<body>
+<header>
+<h1><a href="rmail.html">RMail</a></h1>
+<a href="LOGIN.html" class="login">Sign In</a>
+<a href="SIGN UP.html" class="logon">CREATE AN ACCOUNT</a>
+</header>
+<div class="text">
+<p>
+The simplicity and ease of RMail,<br> available across all your devices</p>
+<a href="sign up.html" class="log">Create a new account</a>
+</div>
+<a href="login.html" class="log1">Login with an existing account</a>
+</body>
+</html>
 
-You can use the [editor on GitHub](https://github.com/rajathandsom/Rmail/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-https://github.com/rajathandsom/Rmail/blob/master/home.html
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rajathandsom/Rmail/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
